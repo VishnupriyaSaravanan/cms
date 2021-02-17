@@ -13,7 +13,7 @@ class Article extends Entity
         '*' => true,
         'id' => false,
         'slug' => false,
-         'tag_string' => true,
+         'tag_string' => false,
     ];
 
 
